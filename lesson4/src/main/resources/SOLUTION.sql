@@ -1,13 +1,8 @@
 --1
-SELECT *
-FROM students;
+SELECT * FROM student;
 --2
-SELECT *
-FROM students
-LIMIT 50;
+SELECT * FROM student LIMIT 50;
 --3
-SELECT name
-FROM students;
+SELECT name FROM student;
 --4
-SELECT DISTINCT amount
-FROM payment;
+SELECT DISTINCT amount FROM payment;

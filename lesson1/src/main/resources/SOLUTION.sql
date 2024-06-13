@@ -1,5 +1,4 @@
-CREATE TABLE IF NOT EXISTS Student
-(
+CREATE TABLE IF NOT EXISTS Student (
     id      bigint AUTO_INCREMENT PRIMARY KEY,
     name    varchar,
     birthday date,
