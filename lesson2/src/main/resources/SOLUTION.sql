@@ -16,15 +16,15 @@ INSERT INTO student (name, birthday, groupnumber) VALUES ('Kristian', '2002-12-1
 
 --2
 INSERT INTO subject (name, grade) values ('Art', 1);
-INSERT INTO subject (name, grade) values ('music', 1);
+INSERT INTO subject (name, grade) values ('Music', 1);
 INSERT INTO subject (name, grade) values ('Geography', 2);
-INSERT INTO subject (name, grade) values ('history', 2);
-INSERT INTO subject (name, grade) values ('math', 3);
+INSERT INTO subject (name, grade) values ('History', 2);
+INSERT INTO subject (name, grade) values ('Math', 3);
 INSERT INTO subject (name, grade) values ('PE', 3);
 INSERT INTO subject (name, grade) values ('Science', 4);
 INSERT INTO subject (name, grade) values ('IT', 4);
-INSERT INTO subject (name, grade) values ('biology', 5);
-INSERT INTO subject (name, grade) values ('economy', 5);
+INSERT INTO subject (name, grade) values ('Biology', 5);
+INSERT INTO subject (name, grade) values ('Economy', 5);
 
 --3
 INSERT INTO paymenttype (name) VALUES ('DAILY');
